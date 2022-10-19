@@ -1,6 +1,6 @@
 import './styles.css';
 
-function header() {
+function Header() {
   return (
     <header className="main-header-container">
       <h1 className="main-header-title">DS Sales</h1>
@@ -8,4 +8,4 @@ function header() {
   );
 }
 
-export default header;
+export default Header;
